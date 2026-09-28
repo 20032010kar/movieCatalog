@@ -6,7 +6,7 @@ const RootLayout: React.FC = () => {
         <div className="flex h-screen bg-purple-950 text-purple-100 selection:bg-cyan-500 selection:text-purple-950">
             <aside className="w-64 bg-purple-900/80 backdrop-blur-md border-r border-purple-800/60 p-5 flex flex-col gap-4">
                 <h2 className="text-xl font-bold mb-5 text-cyan-400 flex items-center gap-2">
-                    🎬 Каталог фільмів
+                     Каталог фільмів
                 </h2>
                 
                 <NavLink 
